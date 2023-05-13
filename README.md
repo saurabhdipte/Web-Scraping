@@ -1,0 +1,1 @@
+# Performed webscraping on an Amazon site to find title and prices for iphones. Then applied the same technique for MI phones.
